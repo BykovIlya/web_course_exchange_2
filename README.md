@@ -29,12 +29,12 @@
 
 ### Вход
 
-![1](https://github.com/BykovIlya/web_course_exchange_2/blob/master/lab6/Screenshot%20from%202018-11-09%2015-21-41.png)
+![1](https://github.com/BykovIlya/web_course_exchange_2/blob/master/lab6/Screenshot%20from%202018-11-16%2020-08-17.png)
 
 ### Брокер
 
-![2](https://github.com/BykovIlya/web_course_exchange_2/blob/master/lab6/Screenshot%20from%202018-11-09%2015-21-41.png)
+![2](https://github.com/BykovIlya/web_course_exchange_2/blob/master/lab6/Screenshot%20from%202018-11-16%2020-08-42.png)
 
 ### Администратор
 
-![3](https://github.com/BykovIlya/web_course_exchange_2/blob/master/lab6/Screenshot%20from%202018-11-09%2015-21-41.png)
+![3](https://github.com/BykovIlya/web_course_exchange_2/blob/master/lab6/Screenshot%20from%202018-11-16%2020-08-51.png)
